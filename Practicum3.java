@@ -44,7 +44,7 @@ class Bike extends Vehicle {
 }
 
 // Main Class
-public class Main {
+public class Practicum3 {
     public static void main(String[] args) {
         // Test Case 1 & 5: Car creation and execution
         System.out.println("=== Car Details ===");
