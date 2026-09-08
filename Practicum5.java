@@ -1,4 +1,4 @@
-public class InterfaceDemo {
+public class Practicum5 {
 
 
     interface SmartDevice {
