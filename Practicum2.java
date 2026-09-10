@@ -1,3 +1,5 @@
+import Practicum6.Student;
+
 class Student {
     protected int id;
     protected String name;
