@@ -1,4 +1,4 @@
-public class ATMExceptionDemo {
+public class Practicum7 {
 
 
     static class InsufficientBalanceException
